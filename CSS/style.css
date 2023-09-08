@@ -1,0 +1,15 @@
+h1,h5,p{
+    text-align: center;
+}
+img{
+    display: inline;
+}
+h2{
+    display: inline;
+}
+button{
+    background-color:green;
+}
+button:hover{
+    background-color: aquamarine;
+}
